@@ -18,9 +18,16 @@
 
 /* test, does not work */
 .navbar {
-  display: inline;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between, flex-end;
+  list-style-type: none;
 }
 
+.li1 {
+  font-size: 25px;
+}
+
+/* span image across section */
 .palmtrees {
-  background-size: cover;
 }
