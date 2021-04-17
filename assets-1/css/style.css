@@ -18,7 +18,9 @@
 
 /* test, does not work */
 .navbar {
-  display: flex;
-  align-items: center;
-  flex-direction: row;
+  display: inline;
+}
+
+.palmtrees {
+  background-size: cover;
 }
