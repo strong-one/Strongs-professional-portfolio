@@ -28,7 +28,7 @@
   font-size: 30px;
   padding-left: 15px;
   color: lightblue;
-  justify-content: space-evenly;
+  justify-items: center;
 }
 
 /* span image across section */
