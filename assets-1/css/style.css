@@ -16,16 +16,19 @@
   background-color: lightblue;
 }
 
-/* test, does not work */
 .navbar {
   display: flex;
   flex-direction: row;
-  justify-content: space-between, flex-end;
+  /* justify-content: space-between, flex-end; */
   list-style-type: none;
 }
 
-.li1 {
-  font-size: 25px;
+.navlink {
+  display: flex;
+  font-size: 30px;
+  padding-left: 15px;
+  color: lightblue;
+  align-items: flex-end;
 }
 
 /* span image across section */
