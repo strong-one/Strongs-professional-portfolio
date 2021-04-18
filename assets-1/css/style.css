@@ -28,7 +28,10 @@
   font-size: 30px;
   padding-left: 15px;
   color: lightblue;
-  justify-items: center;
+}
+
+.h2 {
+  font-size: 40px;
 }
 
 /* span image across section */
