@@ -87,3 +87,30 @@
   margin-top: 20px;
   font-size: 50px;
 }
+
+.contact {
+  display: flex;
+  flex-direction: row;
+}
+
+.contact h3 {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 20px;
+  font-size: 50px;
+  color: darkblue;
+}
+
+.contact ul {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+
+.email,
+.github,
+.linkedin,
+.number {
+  margin-left: 50px;
+  text-decoration: none;
+}
