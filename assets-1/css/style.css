@@ -17,7 +17,7 @@
   /* padding shorthand - top, right, bottom, left */
   padding: 8px 16px 8px 50px;
 }
-/* increasing selector specifity  */
+/*increasing selector specifity */
 .header nav {
   margin-right: 50px;
 }
