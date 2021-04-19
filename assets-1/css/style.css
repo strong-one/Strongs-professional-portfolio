@@ -76,3 +76,14 @@
   display: flex;
   justify-content: center;
 }
+
+.showcase {
+  color: darkblue;
+}
+
+.showcase h3 {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 20px;
+  font-size: 50px;
+}
