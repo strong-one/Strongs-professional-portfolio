@@ -1,14 +1,14 @@
 * {
   font-size: 16px;
 }
-/* modified header */
+
 .header {
   display: flex;
   background-color: rgb(49, 53, 77);
   justify-content: space-between;
   align-items: center;
 }
-/* modified name */
+
 .header h1.name {
   display: flex;
   font-size: 50px;
@@ -31,7 +31,6 @@
   margin-left: 16px;
 }
 
-/* modified navlink  */
 .navlink {
   display: flex;
   font-size: 30px;
@@ -41,7 +40,6 @@
   padding-bottom: 4px;
 }
 
-/* modified h2 */
 .h2 {
   font-size: 40px;
   background-color: lightblue;
@@ -49,8 +47,8 @@
   margin: 0 50px 16px 0;
 }
 
-/* added image to css directly so its eaisily modified in background with url*/
-.palmtrees {
+/* added image to css directly so its eaisily modified in background with url */
+.pattern {
   background-image: url(https://images.unsplash.com/photo-1565638459249-c85cbb2faaa8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHBhdHRlcm58ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
   height: 250px;
   background-position: center;
@@ -59,4 +57,22 @@
   justify-content: flex-end;
   align-items: flex-end;
   background-repeat: no-repeat;
+}
+
+/* working on styling this section correctly */
+.mybio {
+  color: darkblue;
+}
+
+.mybio h3 {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 20px;
+  font-size: 50px;
+  flex-direction: column;
+}
+
+.mybio p {
+  display: flex;
+  justify-content: center;
 }
