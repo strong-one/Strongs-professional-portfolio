@@ -14,6 +14,7 @@
   font-size: 50px;
   background-color: lightblue;
   margin: 16px 0;
+  /* padding shorthand - top, right, bottom, left */
   padding: 8px 16px 8px 50px;
 }
 /* increasing selector specifity  */
