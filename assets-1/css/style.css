@@ -60,6 +60,20 @@
   background-repeat: no-repeat;
 }
 
+.border {
+  border-right: 4px solid;
+  margin-right: 1400px;
+}
+
+.borderone {
+  border-right: 4px solid;
+  padding-right: 23px;
+}
+
+.bordertwo {
+  border-right: 4px solid;
+}
+
 /* working on styling this section correctly */
 .mybio {
   color: darkblue;
