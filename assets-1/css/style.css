@@ -141,8 +141,6 @@ img {
   display: flex;
   align-items: center;
   margin-left: 50px;
-  /* need to remove default link underline */
-  text-decoration: none;
 }
 
 .email,
@@ -153,4 +151,9 @@ img {
   border-bottom: 4px solid;
   padding-bottom: 4px;
   border-color: darkblue;
+  font-size: 23px;
+}
+
+a {
+  text-decoration: none;
 }
