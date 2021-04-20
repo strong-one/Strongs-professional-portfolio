@@ -111,6 +111,8 @@
   display: flex;
   flex-wrap: wrap;
   padding-left: 200px;
+  margin-right: 150px;
+  margin-bottom: 150px;
 }
 
 img {
