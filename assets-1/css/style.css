@@ -104,7 +104,13 @@
 
 .showcase {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
+}
+
+.imagecontainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 200px;
 }
 
 img {
